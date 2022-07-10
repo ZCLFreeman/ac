@@ -18,9 +18,9 @@ bio: My research interests include clinical psychology and cognitive neuroscienc
 
 # Interests to show in About widget
 interests:
-  - Neural mechanisms of post-traumatic stress conditions and psychosis
+  - Post-traumatic stress conditions and psychosis
   - Psychological interventions
-  - Neurodiversity and disability theory
+  - Critical neurodiversity and disability theory
   - Open science approaches 
 
 # Education to show in About widget
@@ -71,8 +71,6 @@ email: 'zoe.c.freeman@kcl.ac.uk'
 highlight_name: true
 ---
 
-I am interested in how traumatic life experiences impact how we remember events and perceive the world. To investigate this, I use functional neuroimaging, experience sampling methods, and behavioural experiments. I incorporate open scholarship practices into my research as often as I can.
+I'm interested in how traumatic experiences impact how we experience the world. My PhD research is focused on trauma memory recall for people with a diagnosis of both PTSD and psychosis using functional MRI and experience sampling methods.    
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
