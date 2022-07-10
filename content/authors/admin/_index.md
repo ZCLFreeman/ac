@@ -18,10 +18,10 @@ bio: My research interests include clinical psychology and cognitive neuroscienc
 
 # Interests to show in About widget
 interests:
-  - Post-traumatic stress
-  - Unusual experiences ("psychosis")
-  - Neurodiversity
-  - Open science
+  - Neural mechanisms of post-traumatic stress conditions and psychosis
+  - Psychological interventions
+  - Neurodiversity and disability theory
+  - Open science approaches 
 
 # Education to show in About widget
 education:
