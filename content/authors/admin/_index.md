@@ -29,7 +29,7 @@ education:
     - course: PhD in Mental Health & Neuroscience
       institution: King's College London
       year: TBD
-    - course: Research MSc in Cognitive Neuroscience
+    - course: MSc (2 year) in Cognitive Neuroscience
       institution: Leiden University
       year: 2019
     - course: BSc (Hons) in Psychology
