@@ -71,6 +71,6 @@ email: 'zoe.c.freeman@kcl.ac.uk'
 highlight_name: true
 ---
 
-I'm interested in how traumatic experiences shape neural and social processes. My PhD research is focused on the neural correlates of trauma memory recall for people with a diagnosis of both PTSD and psychosis. 
+I'm interested in how traumatic experiences shape neural and social processes. My PhD research is focused on the neural correlates of trauma memory recall for people with diagnoses of both PTSD and psychosis. 
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
